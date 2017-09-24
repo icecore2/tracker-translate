@@ -3,21 +3,21 @@
 $lang = array(
 
 #bonusmanager 
-'bonusmanager_wtf' => "WTF?",
+'bonusmanager_wtf' => "מה לעזאזל?",
 'bonusmanager_ysbh' => "You shouldn't be here!",
-'bonusmanager_bm' => "Bonus Management",
+'bonusmanager_bm' => "ניהול בונוסים",
 'bonusmanager_id' => "Id",
-'bonusmanager_bonus' => "Bonus",
-'bonusmanager_points' => "Points",
-'bonusmanager_pointspool' => "Points Pool",
-'bonusmanager_description' => "Description",
-'bonusmanager_type' => "Type",
-'bonusmanager_quantity' => "Quantity",
-'bonusmanager_action' => "Action",
-'bonusmanager_enabled' => "Enabled",
-'bonusmanager_submit' => "Submit",
-'bonusmanager_oops' => "Oops",
-'bonusmanager_sql' => "Something went wrong with the sql query",
+'bonusmanager_bonus' => "בונוס",
+'bonusmanager_points' => "נקודות",
+'bonusmanager_pointspool' => "בריכת נקודות",
+'bonusmanager_description' => "תאור",
+'bonusmanager_type' => "סוג",
+'bonusmanager_quantity' => "כמות",
+'bonusmanager_action' => "פעולה",
+'bonusmanager_enabled' => "מופעל",
+'bonusmanager_submit' => "שליחה",
+'bonusmanager_oops' => "אופס",
+'bonusmanager_sql' => "משהו השתבש עם מסד הנתונים",
 );
 
 ?>
