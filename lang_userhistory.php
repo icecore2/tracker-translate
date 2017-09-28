@@ -4,40 +4,40 @@ $lang = array(
 
 
 #stderr
-'stderr_errorhead' => "Error",
-'stderr_histerrhead' => "History Error",
-'stderr_invalidid' => "Invalidid",
-'stderr_perms' => "Permission denied",
-'stderr_unknownact' => "Unknown action.",
-'stderr_invalidq' => "Invalid or no query.",
+'stderr_errorhead' => "שגיאה",
+'stderr_histerrhead' => "שגיאת היסטוריה",
+'stderr_invalidid' => "שגוי id",
+'stderr_perms' => "גישה נדחית",
+'stderr_unknownact' => "פעולה לא ידועה.",
+'stderr_invalidq' => "שגוי או ללא ערך.",
 
 
 #head
-'head_post' => "Posts history",
+'head_post' => "היסטוריית הודעות",
 
-'head_comm' => "Comments history",
+'head_comm' => "היסטוריית תגובות",
 
 
 #top
-'top_noposts' => "No posts found",
-'top_posthfor' => "Post history for",
+'top_noposts' => "לא נמצאו הודעות",
+'top_posthfor' => "היסטוריית הודעות עבור",
 
-'top_nocomms' => "No comments found",
-'top_commhfor' => "Comments history for",
+'top_nocomms' => "לא נמצאו תגובות",
+'top_commhfor' => "היסטוריית תגובות עמור",
 
 
 #posts
-'posts_unknown' => "unknown",
-'posts_forum' => "Forum",
-'posts_topic' => "Topic",
-'posts_post' => "Post",
-'posts_new' => "NEW!",
-'posts_lasteditedby' => "Last edited by",
-'posts_at' => "at",
+'posts_unknown' => "לא ידוע",
+'posts_forum' => "פורום",
+'posts_topic' => "דיון",
+'posts_post' => "הודעה",
+'posts_new' => "חדש!",
+'posts_lasteditedby' => "נערך לאחרונה על ידי",
+'posts_at' => "ב",
 
-'posts_torrent' => "Torrent:",
-'posts_del' => "Deleted",
-'posts_comment' => "Comment",
+'posts_torrent' => "טורנט:",
+'posts_del' => "הוסר",
+'posts_comment' => "תגובה",
 
 
 );

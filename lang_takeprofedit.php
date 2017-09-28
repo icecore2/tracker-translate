@@ -4,20 +4,20 @@ $lang = array (
 
 #takeprofedit
 
-'takeprofedit_no_data' 	=> "missing form data",
-'takeprofedit_pass_long' 	=> "Sorry, password is too long (max is 40 chars)",
-'takeprofedit_pass_not_match' 	=> "The passwords didn't match. Try again.",
-'takeprofedit_not_valid_email' 	=> "That doesn't look like a valid email address.",
-'takeprofedit_address_taken' 	=> "Could not change email, address already taken or password mismatch.",
-'takeprofedit_user_error' 	=> "USER ERROR",
-'takeprofedit_image_error' 	=> "Not an image or unsupported image!",
+'takeprofedit_no_data' 	=> "מידע חסר",
+'takeprofedit_pass_long' 	=> "מצטערים, סיסמתך ארוכה מדי (מקסימום 40 תווים)",
+'takeprofedit_pass_not_match' 	=> "סיסמתך אינן תואמות. אנא נסו שוב.",
+'takeprofedit_not_valid_email' 	=> "כתובת דואר האלקטרוני ככל הנראה אינה תקינה.",
+'takeprofedit_address_taken' 	=> "אין באפשרותינו להחליף כתובת דואר אלקטרוני, address already taken or password mismatch.",
+'takeprofedit_user_error' 	=> "שגיאת משתמש",
+'takeprofedit_image_error' 	=> "לא תמונה או פורמט שאינו נתמך כתמונה!",
 #'takeprofedit_user_error_link' 	=> "USER ERROR AVATAR",
 #'takeprofedit_image_error_link' => "Only internal storage link is allowed. Please use our own image host. Access it <a href='bitbucket.php'>HERE</a>",
-'takeprofedit_small_image' 	=> "Image is too small",
-'takeprofedit_confirm' => "profile change confirmation",
-'takeprofedit_sorry' => "Sorry",
-'takeprofedit_secret_long' => "Secret answer is too long (max is 40 chars)",
-'takeprofedit_secret_short' => "Secret answer is too sort (min is 6 chars)"
+'takeprofedit_small_image' 	=> "תמונה קטנה מדי",
+'takeprofedit_confirm' => "אישור שינוי פרופיל",
+'takeprofedit_sorry' => "מצטערים",
+'takeprofedit_secret_long' => "שאלתך הסודית ארוכה מדי (מקסימום 40 תווים)",
+'takeprofedit_secret_short' => "שאלתך הסודית קצרה מדי (מינימום 6 תווים)"
 );
 
 $lang['takeprofedit_email_body'] = <<<EOD

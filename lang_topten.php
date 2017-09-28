@@ -4,72 +4,72 @@ $lang = array(
 
 
 #head
-'head_title' => "Top 10",
+'head_title' => "10 הגדולים",
 
 
 #nav
-'nav_torrents' => "Torrents",
-'nav_countries' => "Countries",
-'nav_peers' => "Peers",
+'nav_torrents' => "טורנטים",
+'nav_countries' => "מדינות",
+'nav_peers' => "משתפים",
 
 
 #common
-'common_rank' => "Rank",
-'common_ratio' => "Ratio",
+'common_rank' => "דירוג",
+'common_ratio' => "יחס שיתוף",
 'common_infratio' => "Inf.",
-'common_ul' => "Uploaded",
-'common_users' => "Users",
-'common_top25' => "Top 25",
-'common_top50' => "Top 50",
-'common_top100' => "Top 100",
-'common_top250' => "Top 250",
+'common_ul' => "הועלה",
+'common_users' => "משתמשים",
+'common_top25' => "25 הגדולים",
+'common_top50' => "50 הגדולים",
+'common_top100' => "100 הגדולים",
+'common_top250' => "250 הגדולים",
 
 
 #user function
-'user' => "User",
-'user_ul' => "Uploaded",
-'user_ulspeed' => "UL speed",
-'user_dl' => "Downloaded",
-'user_dlspeed' => "DL speed",
-'user_joined' => "Joined",
+'user' => "משתמש",
+'user_ul' => "העלו",
+'user_ulspeed' => "מהירות העלאה",
+'user_dl' => "הורידו",
+'user_dlspeed' => "מהירות הורדה",
+'user_joined' => "הצטרפו",
 
-'user_topulers' => "Top %u Uploaders",
-'user_topdlers' => "Top %u Downloaders",
-'user_fastestup' => "Top %u Fastest Uploaders <font class='small'>(average, includes inactive time)</font>",
-'user_fastestdown' => "Top %u Fastest Downloaders <font class='small'>(average, includes inactive time)</font>",
-'user_bestshare' => "Top %u Best Sharers <font class='small'>(with minimum 1 GB downloaded)</font>",
-'user_worstshare' => "Top %u Worst Sharers <font class='small'>(with minimum 1 GB downloaded)</font>",
+'user_topulers' => "המעלים %u הגדולים",
+'user_topdlers' => "המורידים %u הגדולים",
+'user_fastestup' => "המעלים המהירים %u ביותר <font class='small'>(ממוצע, הכולל לא פעילים)</font>",
+'user_fastestdown' => "המורידים המהירים %u <font class='small'>(ממוצע, הכולל לא פעילים)</font>",
+'user_bestshare' => "המשתפים הגדולים %u <font class='small'>(עם מינימום 1 GB הורדה)</font>",
+'user_worstshare' => "המשתפים הגרועים ביותר %u <font class='small'>(עם מינימום 1 GB הורדה)</font>",
 
 
 #torrent function
-'torrent_name' => "Name",
-'torrent_snatch' => "Sna.",
-'torrent_data' => "Data",
-'torrent_seed' => "Se.",
-'torrent_leech' => "Le.",
-'torrent_total' => "To.",
+'torrent_name' => "שם",
+'torrent_snatch' => "הורדות",
+'torrent_data' => "מידע",
+'torrent_seed' => "משתפים",
+'torrent_leech' => "מורידים",
+'torrent_total' => "סך הכל",
 
-'torrent_mostact' => "Top %u Most Active Torrents",
-'torrent_mostsna' => "Top %u Most Snatched Torrents",
-'torrent_datatrans' => "Top %u Most Data Transferred Torrents",
-'torrent_bestseed' => "Top %u Best Seeded Torrents <font class='small'>(with minimum 5 seeders)</font>",
-'torrent_worstseed' => "Top %u Worst Seeded Torrents <font class='small'>(with minimum 5 leechers, excluding unsnatched torrents)</font>",
+'torrent_mostact' => "%u טורנטים הפעילים ביותר",
+'torrent_mostsna' => "%u המורדים ביותר",
+'torrent_datatrans' => "%u עם המידע המועבר הכי הרבה",
+'torrent_bestseed' => "%u הטורנטים המשותפים ביותר <font class='small'>(עם מינימום 5 משתפים)</font>",
+'torrent_worstseed' => "%u הכי פחות משותפים <font class='small'>(עם מינימום 5 משתפים, לא מורדים יוצאי דופן)</font>",
 
 
 #country function
-'country' => "Country",
+'country' => "מדינות",
 
-'country_mostact' => "Top %u Countries<font class='small'> (users)</font>",
-'country_totalul' => "Top %u Countries<font class='small'> (total uploaded)</font>",
-'country_avperuser' => "Top %u Countries<font class='small'> (average total uploaded per user, with minimum 1TB uploaded and 100 users)</font>",
-'country_avg' => "Average",
-'country_ratio' => "Top %u Countries<font class='small'> (ratio, with minimum 1TB uploaded, 1TB downloaded and 100 users)</font>",
+'country_mostact' => "%u מדינות הפעילות ביותר <font class='small'> (משתמשים)</font>",
+'country_totalul' => "%u מדינות הפעילות ביותר <font class='small'> (סך הכל העלאה)</font>",
+'country_avperuser' => "%u מדינות הפעילות ביותר <font class='small'> (ממוצע העלאה למשתמש, with minimum 1TB uploaded and 100 users)</font>",
+'country_avg' => "ממוצע",
+'country_ratio' => "%u מדינות עם יחס שיתוף הטוב ביותר<font class='small'> (יחס שיתוף, עם מינימות 1TB העלאה, 1TB הורדה ו100 משתמשים)</font>",
 
 
 #Peer function
-'peers_uname' => "Username",
-'peers_ulrate' => "Upload rate",
-'peers_dlrate' => "Download rate",
+'peers_uname' => "שם משתמש",
+'peers_ulrate' => "מהירות העלאה",
+'peers_dlrate' => "מהירות הורדה",
 
 'peers_fastestup' => "Top %u Fastest Uploaders",
 'peers_fastestdown' => "Top %u Fastest Downloaders",

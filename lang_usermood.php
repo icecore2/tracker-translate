@@ -1,11 +1,11 @@
 <?php
 $lang = array(
-	'user_mood_log' => "log in to use this feature!",
-	'user_mood_change' => "Mood Change",
-	'user_mood_hmm' => "Hmmm. Invalid Mood choice.",
-	'user_mood_close' => "Close window",
-	'user_mood_back' => "Back to site",
-	'user_mood_s' => "s Mood",
-	'user_mood_title'	=>	"moods"
+	'user_mood_log' => "נא להתחבר בכדי להשתמש באפשרות זו!",
+	'user_mood_change' => "שינוי מצב רוח",
+	'user_mood_hmm' => "המממ. מצב רוח שגוי נבחר.",
+	'user_mood_close' => "סגירת חלון",
+	'user_mood_back' => "חזרה לאתר",
+	'user_mood_s' => "מצב רוח",
+	'user_mood_title'	=>	"מצבי רוח"
 	);
 ?>

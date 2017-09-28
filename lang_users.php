@@ -9,7 +9,7 @@ $lang = array(
 
 #form
 'form_search' => "חיפוש:",
-'form_btn' => "Okay",
+'form_btn' => "חיפוש",
 
 
 #pager

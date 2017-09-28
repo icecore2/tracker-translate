@@ -3,15 +3,15 @@
 $lang = array(
 
 #takedit
-'takedit_failed' => "Edit failed!",
-'takedit_no_data' => "missing form data",
-'takedit_not_owner' => "You're not the owner! How did that happen?",
-'takedit_nfo_error' => "NFO is too big! Max 65,535 bytes.",
-'takedit_log' => "Torrent %s (%s) was edited by %s",
-'takeedit_img_failed' => "Image upload failed", 
-'takeedit_img_type' => "Image type not supported",
-'takeedit_img_exists' => "Image already uploaded",
-'takeedit_img_big' => "Image is too big"
+'takedit_failed' => "עריכה נכשלה!",
+'takedit_no_data' => "טופס מידע חסר",
+'takedit_not_owner' => "אינך אחראי! איך זה קרה?",
+'takedit_nfo_error' => "גדול מדי NFO קובץ! מקסימום 65,535 bytes.",
+'takedit_log' => "טורנט %s (%s) נערך על ידי %s",
+'takeedit_img_failed' => "העלאת תמונה נכשלה", 
+'takeedit_img_type' => "סוג תמונה אינה נתמך",
+'takeedit_img_exists' => "תמונה כל הועלתה",
+'takeedit_img_big' => "תמונה גדולה מדי"
 );
 
 ?>
